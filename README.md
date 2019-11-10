@@ -44,4 +44,4 @@
 
 > # WebSite Cursoemvideo
 
-[![WebSite Cursoemvideo.](https://github.com/LucasArifa/front-end-GlassProject/blob/master/_imagens/curso-em-video.jpg)](https://www.cursoemvideo.com/course/curso-de-html5)
+[![WebSite Cursoemvideo.](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRv2CM61ChKZmk3hIYEYU9PLoYBdlDyOz-u1qYrh-9aCA_rH5Nl)](https://www.cursoemvideo.com/course/curso-de-html5)
