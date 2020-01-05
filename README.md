@@ -1,6 +1,6 @@
 > # front-end-GlassProject
 >
-> > ## Small Description Project / Pequena Descrição do Projeto
+> > ## Short Description Project / Curta Descrição do Projeto
 > >
 > > > ### English Language
 > > >
