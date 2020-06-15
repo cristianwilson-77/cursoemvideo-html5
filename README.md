@@ -12,11 +12,11 @@
 > >
 > > ## Interface Structure / Estruturas das Interfaces
 > >
-> > > 1 - Preview Index.html document (HOMEPAGE) ![HomePage Interface](https://github.com/LucasArifa/glassProject_Static-Page/blob/master/interface/01-index.jpg?raw=true)
-> > > 2 - Preview Specs.html document (Specifications / Especificações) ![Specifications Interface](https://github.com/LucasArifa/glassProject_Static-Page/blob/master/interface/02-specs.jpg?raw=true)
-> > > 3 - Preview Fotos.html document (Photos Section / Sessão de Fotos) ![Photos Interface](https://github.com/LucasArifa/glassProject_Static-Page/blob/master/interface/03-fotos.jpg?raw=true)
-> > > 4 - Preview Multmidia.html document (Multmidia Section / Sessão de Midia) ![Multmidia Interface](https://github.com/LucasArifa/glassProject_Static-Page/blob/master/interface/04-multimidia.jpg?raw=true)
-> > > 5 - Preview Fale-conosco.html document (Contact Section / Sessão de Contato) ![Contact Interface](https://github.com/LucasArifa/glassProject_Static-Page/blob/master/interface/05-fale-conosco.jpg?raw=true)
+> > > 1 - Preview Index.html document (HOMEPAGE) [![HomePage Interface](https://github.com/LucasArifa/glassProject_Static-Page/blob/master/interface/01-index.jpg?raw=true)](https://lucasarifa.github.io/glassProject_Static-Page/)
+> > > 2 - Preview Specs.html document (Specifications / Especificações) [![Specifications Interface](https://github.com/LucasArifa/glassProject_Static-Page/blob/master/interface/02-specs.jpg?raw=true)
+> > > 3 - Preview Fotos.html document (Photos Section / Sessão de Fotos) [![Photos Interface](https://github.com/LucasArifa/glassProject_Static-Page/blob/master/interface/03-fotos.jpg?raw=true)](https://lucasarifa.github.io/glassProject_Static-Page/)
+> > > 4 - Preview Multmidia.html document (Multmidia Section / Sessão de Midia) [![Multmidia Interface](https://github.com/LucasArifa/glassProject_Static-Page/blob/master/interface/04-multimidia.jpg?raw=true)](https://lucasarifa.github.io/glassProject_Static-Page/)
+> > > 5 - Preview Fale-conosco.html document (Contact Section / Sessão de Contato) [![Contact Interface](https://github.com/LucasArifa/glassProject_Static-Page/blob/master/interface/05-fale-conosco.jpg?raw=true)](https://lucasarifa.github.io/glassProject_Static-Page/)
 
 #
 
